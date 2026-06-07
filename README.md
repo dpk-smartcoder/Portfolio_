@@ -18,7 +18,8 @@ A modern, animated portfolio website built with React, GSAP, Framer Motion, and 
 - **Skills**: Technology stack showcase
 - **Services**: Service offerings
 - **Projects**: Portfolio projects grid
-- **Experience**: Certificates and achievements
+- **Experience**: Professional work history timeline
+- **Certificates**: Certifications and achievements
 - **Contact**: Contact form with validation
 
 ## Technologies Used
@@ -98,8 +99,9 @@ The build output will be in the `dist` directory, ready for deployment.
 2. **About Section**: Edit `src/components/About.jsx`
 3. **Skills**: Modify the skills array in `src/components/Skills.jsx`
 4. **Projects**: Update projects array in `src/components/Projects.jsx`
-5. **Experience**: Edit experiences in `src/components/Experience.jsx`
-6. **Social Links**: Update links in `src/components/Home.jsx`
+5. **Experience**: Edit work history in `src/components/Experience.jsx`
+6. **Certificates**: Edit certificate images in `src/components/Certificates.jsx`
+7. **Social Links**: Update links in `src/components/Home.jsx`
 
 ### Colors
 
